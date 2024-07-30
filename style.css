@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(153, 149, 149);
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    max-width: 500px;
+    margin-top: 20%;
+    background-color: #fff;
+    padding: 32px;
+    border-radius: 8px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    border: 2px solid #1b1b1b;
+}
+
+button {
+    width: 100%;
+    border-radius: 2px;
+    margin-top: 5px;
+    padding: 8px;
+    cursor: pointer;
+    background-color: rgb(74, 207, 74);
+    color: #fff;
+    border: none;
+}
+
+p {
+    margin-top: 16px;
+    font-weight: bold;
+}
